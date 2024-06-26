@@ -40,12 +40,18 @@ h2 {
 
 footer {
     background-color: #000000;
-    color: #fff;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }
 .main_video {
     width: 100%;
 }
-
-
+img{
+    width: 300px;
+    height: 250px;
+}
+a:hover{
+    color: rgb(116, 151, 218);
+    transition: 0.8s;
+}
